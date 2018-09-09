@@ -14,24 +14,34 @@ It is an intermidiate stage and it helps us to commit only those files which we 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Staging area acts as an intermediate phase and helps us commit only those files which we want
+
 
 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches are help full if we would like to venture out into adding a new experimental feature to our project.
 
 
 
-How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualize the branch structure?	
+
+Show us clearer path and direct connections between the commits
 
 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+We can incorporate our changes in the paresnt branch. The new commit has links to both it's parent thus it is represented this way.
 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Pros: Saves time and effort
+Cons: can not think by itself and often shows conflicts
+
 
